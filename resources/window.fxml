@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="165.0" xmlns:fx="http://javafx.com/fxml">
+  <children>
+    <Button layoutX="35.0" layoutY="115.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="92.0" text="Button">
+      <font>
+        <Font name="Droid Sans" size="16.0" fx:id="x1" />
+      </font>
+    </Button>
+    <Label font="$x1" layoutX="39.0" layoutY="47.0" text="Hello JavaFX" />
+  </children>
+</AnchorPane>
